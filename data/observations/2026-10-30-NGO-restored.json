@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "2026-10-30-NGO-restored",
+  "date": "2026-10-30",
+  "observedAt": "2026-10-30T00:00:00+09:00",
+  "timePrecision": "day",
+  "origin": "ICN",
+  "destination": "NGO",
+  "status": "ok",
+  "provenance": "restored",
+  "coverage": "best-summary-only",
+  "source": "Skyscanner · 이전 대화의 조회 결과에서 복원",
+  "note": "정확한 조회 시각은 미상. 정렬용 00:00이며 실제 조회 시간이 아님. 원본 API 응답은 보존되지 않음. 당시 3–13박 조건 최저가 요약.",
+  "quotes": [
+    {
+      "id": "restored-2026-10-30-13-20",
+      "departure": "2027-01-13",
+      "return": "2027-01-20",
+      "direct": true,
+      "airlines": [
+        "제주항공"
+      ],
+      "prices": {
+        "KRW": 299104,
+        "JPY": 35286
+      },
+      "baggage": "unknown"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "version": "2.0",
+  "lastUpdated": "2026-11-03T13:07:42.983Z",
+  "activeFeatures": [
+    "netlify-deployment"
+  ],
+  "primaryFeature": "netlify-deployment",
+  "features": {
+    "netlify-deployment": {
+      "phase": "design",
+      "matchRate": null,
+      "iterationCount": 0,
+      "documents": {}
+    }
+  },
+  "pipeline": {
+    "currentPhase": 1,
+    "level": "Starter",
+    "phaseHistory": []
+  },
+  "session": {
+    "startedAt": "2026-11-03T13:07:42.958Z",
+    "onboardingCompleted": false,
+    "lastActivity": "2026-11-03T13:07:42.983Z"
+  },
+  "history": [
+    {
+      "feature": "netlify-deployment",
+      "from": "plan",
+      "to": "design",
+      "timestamp": "2026-11-03T13:07:42.980Z"
+    },
+    {
+      "feature": "netlify-deployment",
+      "action": "phase_complete",
+      "phase": "plan",
+      "nextPhase": "design",
+      "timestamp": "2026-11-03T13:07:42.983Z"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "origin": "ICN",
+  "destinations": ["NGO", "CTS"],
+  "travelMonth": "2027-01",
+  "minNights": 3,
+  "maxNights": 13,
+  "adults": 1,
+  "cabin": "economy",
+  "market": "KR",
+  "timezone": "Asia/Seoul",
+  "currencies": ["KRW", "JPY"]
+}
