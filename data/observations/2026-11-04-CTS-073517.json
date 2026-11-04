@@ -1,0 +1,171 @@
+{
+  "schemaVersion": 1,
+  "id": "2026-11-04-CTS-073517",
+  "date": "2026-11-04",
+  "observedAt": "2026-11-04T16:35:17+09:00",
+  "timePrecision": "second",
+  "origin": "ICN",
+  "destination": "CTS",
+  "status": "ok",
+  "provenance": "skyscanner-monthly",
+  "coverage": "returned-candidates",
+  "source": "Skyscanner",
+  "evidence": [
+    "data/evidence/2026-11-04-CTS-073517-KRW.json",
+    "data/evidence/2026-11-04-CTS-073517-JPY.json"
+  ],
+  "quotes": [
+    {
+      "id": "{bl}:202611040646*I*ICN*CTS*20270117*gtkr*7C|202611040646*I*CTS*ICN*20270121*gtkr*MM",
+      "departure": "2027-01-17",
+      "return": "2027-01-21",
+      "direct": false,
+      "airlines": [
+        "제주항공",
+        "피치항공"
+      ],
+      "prices": {
+        "KRW": 417476,
+        "JPY": 49187
+      },
+      "baggage": "unknown",
+      "links": {
+        "KRW": "https://skyscanner.net/g/referrals/v1/flights/day-view?mediaPartnerId=2850210&utm_term=skyscanner_chatgpt_mcp_app&origin=ICN&destination=CTS&outboundDate=2027-01-17&cabinclass=economy&inboundDate=2027-01-21&locale=ko-KR&currency=KRW&market=KR",
+        "JPY": "https://skyscanner.net/g/referrals/v1/flights/day-view?mediaPartnerId=2850210&utm_term=skyscanner_chatgpt_mcp_app&origin=ICN&destination=CTS&outboundDate=2027-01-17&cabinclass=economy&inboundDate=2027-01-21&locale=ko-KR&currency=JPY&market=KR"
+      }
+    },
+    {
+      "id": "{bl}:202611040203*I*ICN*CTS*20270120*gtkr*7C|202611040203*I*CTS*ICN*20270121*gtkr*MM",
+      "departure": "2027-01-20",
+      "return": "2027-01-21",
+      "direct": false,
+      "airlines": [
+        "제주항공",
+        "피치항공"
+      ],
+      "prices": {
+        "KRW": 421267,
+        "JPY": 49634
+      },
+      "baggage": "unknown",
+      "links": {
+        "KRW": "https://skyscanner.net/g/referrals/v1/flights/day-view?mediaPartnerId=2850210&utm_term=skyscanner_chatgpt_mcp_app&origin=ICN&destination=CTS&outboundDate=2027-01-20&cabinclass=economy&inboundDate=2027-01-21&locale=ko-KR&currency=KRW&market=KR",
+        "JPY": "https://skyscanner.net/g/referrals/v1/flights/day-view?mediaPartnerId=2850210&utm_term=skyscanner_chatgpt_mcp_app&origin=ICN&destination=CTS&outboundDate=2027-01-20&cabinclass=economy&inboundDate=2027-01-21&locale=ko-KR&currency=JPY&market=KR"
+      }
+    },
+    {
+      "id": "{bl}:202611040609*I*ICN*CTS*20270113*gtkr*7C|202611040609*I*CTS*ICN*20270114*gtkr*MM",
+      "departure": "2027-01-13",
+      "return": "2027-01-14",
+      "direct": false,
+      "airlines": [
+        "제주항공",
+        "피치항공"
+      ],
+      "prices": {
+        "KRW": 421447,
+        "JPY": 49655
+      },
+      "baggage": "unknown",
+      "links": {
+        "KRW": "https://skyscanner.net/g/referrals/v1/flights/day-view?mediaPartnerId=2850210&utm_term=skyscanner_chatgpt_mcp_app&origin=ICN&destination=CTS&outboundDate=2027-01-13&cabinclass=economy&inboundDate=2027-01-14&locale=ko-KR&currency=KRW&market=KR",
+        "JPY": "https://skyscanner.net/g/referrals/v1/flights/day-view?mediaPartnerId=2850210&utm_term=skyscanner_chatgpt_mcp_app&origin=ICN&destination=CTS&outboundDate=2027-01-13&cabinclass=economy&inboundDate=2027-01-14&locale=ko-KR&currency=JPY&market=KR"
+      }
+    },
+    {
+      "id": "{bl}:202611040418*I*ICN*CTS*20270120*gtkr*7C|202611040418*I*CTS*ICN*20270123*gtkr*MM",
+      "departure": "2027-01-20",
+      "return": "2027-01-23",
+      "direct": false,
+      "airlines": [
+        "제주항공",
+        "피치항공"
+      ],
+      "prices": {
+        "KRW": 427645,
+        "JPY": 50385
+      },
+      "baggage": "unknown",
+      "links": {
+        "KRW": "https://skyscanner.net/g/referrals/v1/flights/day-view?mediaPartnerId=2850210&utm_term=skyscanner_chatgpt_mcp_app&origin=ICN&destination=CTS&outboundDate=2027-01-20&cabinclass=economy&inboundDate=2027-01-23&locale=ko-KR&currency=KRW&market=KR",
+        "JPY": "https://skyscanner.net/g/referrals/v1/flights/day-view?mediaPartnerId=2850210&utm_term=skyscanner_chatgpt_mcp_app&origin=ICN&destination=CTS&outboundDate=2027-01-20&cabinclass=economy&inboundDate=2027-01-23&locale=ko-KR&currency=JPY&market=KR"
+      }
+    },
+    {
+      "id": "{bl}:202611040648*I*ICN*CTS*20270113*dhop*7C|202611040648*I*CTS*ICN*20270119*dhop*MM",
+      "departure": "2027-01-13",
+      "return": "2027-01-19",
+      "direct": false,
+      "airlines": [
+        "제주항공",
+        "피치항공"
+      ],
+      "prices": {
+        "KRW": 438913,
+        "JPY": 51713
+      },
+      "baggage": "unknown",
+      "links": {
+        "KRW": "https://skyscanner.net/g/referrals/v1/flights/day-view?mediaPartnerId=2850210&utm_term=skyscanner_chatgpt_mcp_app&origin=ICN&destination=CTS&outboundDate=2027-01-13&cabinclass=economy&inboundDate=2027-01-19&locale=ko-KR&currency=KRW&market=KR",
+        "JPY": "https://skyscanner.net/g/referrals/v1/flights/day-view?mediaPartnerId=2850210&utm_term=skyscanner_chatgpt_mcp_app&origin=ICN&destination=CTS&outboundDate=2027-01-13&cabinclass=economy&inboundDate=2027-01-19&locale=ko-KR&currency=JPY&market=KR"
+      }
+    },
+    {
+      "id": "{bl}:202611031256*I*ICN*CTS*20270113*dhop*7C|202611031256*I*CTS*ICN*20270113*dhop*MM",
+      "departure": "2027-01-13",
+      "return": "2027-01-13",
+      "direct": false,
+      "airlines": [
+        "제주항공",
+        "피치항공"
+      ],
+      "prices": {
+        "KRW": 439109,
+        "JPY": 51736
+      },
+      "baggage": "unknown",
+      "links": {
+        "KRW": "https://skyscanner.net/g/referrals/v1/flights/day-view?mediaPartnerId=2850210&utm_term=skyscanner_chatgpt_mcp_app&origin=ICN&destination=CTS&outboundDate=2027-01-13&cabinclass=economy&inboundDate=2027-01-13&locale=ko-KR&currency=KRW&market=KR",
+        "JPY": "https://skyscanner.net/g/referrals/v1/flights/day-view?mediaPartnerId=2850210&utm_term=skyscanner_chatgpt_mcp_app&origin=ICN&destination=CTS&outboundDate=2027-01-13&cabinclass=economy&inboundDate=2027-01-13&locale=ko-KR&currency=JPY&market=KR"
+      }
+    },
+    {
+      "id": "{bl}:202611040504*I*ICN*CTS*20270117*dhop*7C|202611040504*I*CTS*ICN*20270119*dhop*MM",
+      "departure": "2027-01-17",
+      "return": "2027-01-19",
+      "direct": false,
+      "airlines": [
+        "제주항공",
+        "피치항공"
+      ],
+      "prices": {
+        "KRW": 439169,
+        "JPY": 51743
+      },
+      "baggage": "unknown",
+      "links": {
+        "KRW": "https://skyscanner.net/g/referrals/v1/flights/day-view?mediaPartnerId=2850210&utm_term=skyscanner_chatgpt_mcp_app&origin=ICN&destination=CTS&outboundDate=2027-01-17&cabinclass=economy&inboundDate=2027-01-19&locale=ko-KR&currency=KRW&market=KR",
+        "JPY": "https://skyscanner.net/g/referrals/v1/flights/day-view?mediaPartnerId=2850210&utm_term=skyscanner_chatgpt_mcp_app&origin=ICN&destination=CTS&outboundDate=2027-01-17&cabinclass=economy&inboundDate=2027-01-19&locale=ko-KR&currency=JPY&market=KR"
+      }
+    },
+    {
+      "id": "{bl}:202611040649*I*ICN*CTS*20270110*gtkr*7C|202611040649*I*CTS*ICN*20270114*gtkr*MM",
+      "departure": "2027-01-10",
+      "return": "2027-01-14",
+      "direct": false,
+      "airlines": [
+        "제주항공",
+        "피치항공"
+      ],
+      "prices": {
+        "KRW": 439590,
+        "JPY": 51792
+      },
+      "baggage": "unknown",
+      "links": {
+        "KRW": "https://skyscanner.net/g/referrals/v1/flights/day-view?mediaPartnerId=2850210&utm_term=skyscanner_chatgpt_mcp_app&origin=ICN&destination=CTS&outboundDate=2027-01-10&cabinclass=economy&inboundDate=2027-01-14&locale=ko-KR&currency=KRW&market=KR",
+        "JPY": "https://skyscanner.net/g/referrals/v1/flights/day-view?mediaPartnerId=2850210&utm_term=skyscanner_chatgpt_mcp_app&origin=ICN&destination=CTS&outboundDate=2027-01-10&cabinclass=economy&inboundDate=2027-01-14&locale=ko-KR&currency=JPY&market=KR"
+      }
+    }
+  ]
+}
