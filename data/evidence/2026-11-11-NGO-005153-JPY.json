@@ -1,0 +1,322 @@
+{
+  "quotes": [
+    {
+      "quote_id": "{bl}:202611102359*D*ICN*NGO*20270113*noli*LJ|202611102359*D*NGO*ICN*20270114*noli*LJ",
+      "min_price": {
+        "amount": "33902",
+        "unit": "PRICE_UNIT_WHOLE"
+      },
+      "is_direct": true,
+      "trip_duration_days": 1,
+      "outbound_leg": {
+        "origin_entity_id": "95673659",
+        "destination_entity_id": "128668875",
+        "departure_date_time": {
+          "year": 2027,
+          "month": 1,
+          "day": 13
+        },
+        "carrier_id": "-32161"
+      },
+      "inbound_leg": {
+        "origin_entity_id": "128668875",
+        "destination_entity_id": "95673659",
+        "departure_date_time": {
+          "year": 2027,
+          "month": 1,
+          "day": 14
+        },
+        "carrier_id": "-32161"
+      }
+    },
+    {
+      "quote_id": "{bl}:202611101058*D*ICN*NGO*20270106*wpm_*LJ|202611101058*D*NGO*ICN*20270106*wpm_*LJ",
+      "min_price": {
+        "amount": "34262",
+        "unit": "PRICE_UNIT_WHOLE"
+      },
+      "is_direct": true,
+      "trip_duration_days": 0,
+      "outbound_leg": {
+        "origin_entity_id": "95673659",
+        "destination_entity_id": "128668875",
+        "departure_date_time": {
+          "year": 2027,
+          "month": 1,
+          "day": 6
+        },
+        "carrier_id": "-32161"
+      },
+      "inbound_leg": {
+        "origin_entity_id": "128668875",
+        "destination_entity_id": "95673659",
+        "departure_date_time": {
+          "year": 2027,
+          "month": 1,
+          "day": 6
+        },
+        "carrier_id": "-32161"
+      }
+    },
+    {
+      "quote_id": "{bl}:202611100004*D*ICN*NGO*20270127*trkr*LJ|202611100004*D*NGO*ICN*20270128*trkr*LJ",
+      "min_price": {
+        "amount": "36099",
+        "unit": "PRICE_UNIT_WHOLE"
+      },
+      "is_direct": true,
+      "trip_duration_days": 1,
+      "outbound_leg": {
+        "origin_entity_id": "95673659",
+        "destination_entity_id": "128668875",
+        "departure_date_time": {
+          "year": 2027,
+          "month": 1,
+          "day": 27
+        },
+        "carrier_id": "-32161"
+      },
+      "inbound_leg": {
+        "origin_entity_id": "128668875",
+        "destination_entity_id": "95673659",
+        "departure_date_time": {
+          "year": 2027,
+          "month": 1,
+          "day": 28
+        },
+        "carrier_id": "-32161"
+      }
+    },
+    {
+      "quote_id": "{bl}:202611091400*D*ICN*NGO*20270118*noli*7C|202611091400*D*NGO*ICN*20270119*noli*7C",
+      "min_price": {
+        "amount": "36395",
+        "unit": "PRICE_UNIT_WHOLE"
+      },
+      "is_direct": true,
+      "trip_duration_days": 1,
+      "outbound_leg": {
+        "origin_entity_id": "95673659",
+        "destination_entity_id": "128668875",
+        "departure_date_time": {
+          "year": 2027,
+          "month": 1,
+          "day": 18
+        },
+        "carrier_id": "-32179"
+      },
+      "inbound_leg": {
+        "origin_entity_id": "128668875",
+        "destination_entity_id": "95673659",
+        "departure_date_time": {
+          "year": 2027,
+          "month": 1,
+          "day": 19
+        },
+        "carrier_id": "-32179"
+      }
+    },
+    {
+      "quote_id": "{bl}:202611100438*D*ICN*NGO*20270126*wpm_*7C|202611100438*D*NGO*ICN*20270127*wpm_*7C",
+      "min_price": {
+        "amount": "36957",
+        "unit": "PRICE_UNIT_WHOLE"
+      },
+      "is_direct": true,
+      "trip_duration_days": 1,
+      "outbound_leg": {
+        "origin_entity_id": "95673659",
+        "destination_entity_id": "128668875",
+        "departure_date_time": {
+          "year": 2027,
+          "month": 1,
+          "day": 26
+        },
+        "carrier_id": "-32179"
+      },
+      "inbound_leg": {
+        "origin_entity_id": "128668875",
+        "destination_entity_id": "95673659",
+        "departure_date_time": {
+          "year": 2027,
+          "month": 1,
+          "day": 27
+        },
+        "carrier_id": "-32179"
+      }
+    },
+    {
+      "quote_id": "{bl}:202611110005*D*ICN*NGO*20270106*quna*LJ|202611110005*D*NGO*ICN*20270107*quna*LJ",
+      "min_price": {
+        "amount": "37021",
+        "unit": "PRICE_UNIT_WHOLE"
+      },
+      "is_direct": true,
+      "trip_duration_days": 1,
+      "outbound_leg": {
+        "origin_entity_id": "95673659",
+        "destination_entity_id": "128668875",
+        "departure_date_time": {
+          "year": 2027,
+          "month": 1,
+          "day": 6
+        },
+        "carrier_id": "-32161"
+      },
+      "inbound_leg": {
+        "origin_entity_id": "128668875",
+        "destination_entity_id": "95673659",
+        "departure_date_time": {
+          "year": 2027,
+          "month": 1,
+          "day": 7
+        },
+        "carrier_id": "-32161"
+      }
+    },
+    {
+      "quote_id": "{bl}:202611070912*D*ICN*NGO*20270129*mrlt*7C|202611070912*D*NGO*ICN*20270130*mrlt*7C",
+      "min_price": {
+        "amount": "37085",
+        "unit": "PRICE_UNIT_WHOLE"
+      },
+      "is_direct": true,
+      "trip_duration_days": 1,
+      "outbound_leg": {
+        "origin_entity_id": "95673659",
+        "destination_entity_id": "128668875",
+        "departure_date_time": {
+          "year": 2027,
+          "month": 1,
+          "day": 29
+        },
+        "carrier_id": "-32179"
+      },
+      "inbound_leg": {
+        "origin_entity_id": "128668875",
+        "destination_entity_id": "95673659",
+        "departure_date_time": {
+          "year": 2027,
+          "month": 1,
+          "day": 30
+        },
+        "carrier_id": "-32179"
+      }
+    },
+    {
+      "quote_id": "{bl}:202611101447*D*ICN*NGO*20270112*quna*LJ|202611101447*D*NGO*ICN*20270113*quna*LJ",
+      "min_price": {
+        "amount": "37135",
+        "unit": "PRICE_UNIT_WHOLE"
+      },
+      "is_direct": true,
+      "trip_duration_days": 1,
+      "outbound_leg": {
+        "origin_entity_id": "95673659",
+        "destination_entity_id": "128668875",
+        "departure_date_time": {
+          "year": 2027,
+          "month": 1,
+          "day": 12
+        },
+        "carrier_id": "-32161"
+      },
+      "inbound_leg": {
+        "origin_entity_id": "128668875",
+        "destination_entity_id": "95673659",
+        "departure_date_time": {
+          "year": 2027,
+          "month": 1,
+          "day": 13
+        },
+        "carrier_id": "-32161"
+      }
+    }
+  ],
+  "carriers": [
+    {
+      "carrier_id": "-32161",
+      "name": "Jin Air",
+      "iata": "LJ",
+      "image_url": "https://logos.skyscnr.com/images/airlines/LJ.png"
+    },
+    {
+      "carrier_id": "-32179",
+      "name": "Jeju Air",
+      "iata": "7C",
+      "image_url": "https://logos.skyscnr.com/images/airlines/78.png"
+    }
+  ],
+  "places": [
+    {
+      "entity_id": "27538638",
+      "parent_id": "29475329",
+      "name": "서울",
+      "iata": "SEL"
+    },
+    {
+      "entity_id": "95673659",
+      "parent_id": "27538638",
+      "name": "인천 국제",
+      "iata": "ICN"
+    },
+    {
+      "entity_id": "27545106",
+      "parent_id": "29475330",
+      "name": "나고야",
+      "iata": "NGO"
+    },
+    {
+      "entity_id": "128668875",
+      "parent_id": "27545106",
+      "name": "나고야쥬부센트레아",
+      "iata": "NGO"
+    }
+  ],
+  "search_params": {
+    "origin": "ICN",
+    "destination": "NGO",
+    "month": 1,
+    "year": 2027,
+    "locale": "ko-KR",
+    "currency": "JPY",
+    "market": "KR",
+    "is_return": true
+  },
+  "referral_links": {
+    "flight_day_view": [
+      {
+        "quote_id": "{bl}:202611102359*D*ICN*NGO*20270113*noli*LJ|202611102359*D*NGO*ICN*20270114*noli*LJ",
+        "url": "https://skyscanner.net/g/referrals/v1/flights/day-view?mediaPartnerId=2850210&utm_term=skyscanner_chatgpt_mcp_app&origin=ICN&destination=NGO&outboundDate=2027-01-13&cabinclass=economy&inboundDate=2027-01-14&locale=ko-KR&currency=JPY&market=KR"
+      },
+      {
+        "quote_id": "{bl}:202611101058*D*ICN*NGO*20270106*wpm_*LJ|202611101058*D*NGO*ICN*20270106*wpm_*LJ",
+        "url": "https://skyscanner.net/g/referrals/v1/flights/day-view?mediaPartnerId=2850210&utm_term=skyscanner_chatgpt_mcp_app&origin=ICN&destination=NGO&outboundDate=2027-01-06&cabinclass=economy&inboundDate=2027-01-06&locale=ko-KR&currency=JPY&market=KR"
+      },
+      {
+        "quote_id": "{bl}:202611100004*D*ICN*NGO*20270127*trkr*LJ|202611100004*D*NGO*ICN*20270128*trkr*LJ",
+        "url": "https://skyscanner.net/g/referrals/v1/flights/day-view?mediaPartnerId=2850210&utm_term=skyscanner_chatgpt_mcp_app&origin=ICN&destination=NGO&outboundDate=2027-01-27&cabinclass=economy&inboundDate=2027-01-28&locale=ko-KR&currency=JPY&market=KR"
+      },
+      {
+        "quote_id": "{bl}:202611091400*D*ICN*NGO*20270118*noli*7C|202611091400*D*NGO*ICN*20270119*noli*7C",
+        "url": "https://skyscanner.net/g/referrals/v1/flights/day-view?mediaPartnerId=2850210&utm_term=skyscanner_chatgpt_mcp_app&origin=ICN&destination=NGO&outboundDate=2027-01-18&cabinclass=economy&inboundDate=2027-01-19&locale=ko-KR&currency=JPY&market=KR"
+      },
+      {
+        "quote_id": "{bl}:202611100438*D*ICN*NGO*20270126*wpm_*7C|202611100438*D*NGO*ICN*20270127*wpm_*7C",
+        "url": "https://skyscanner.net/g/referrals/v1/flights/day-view?mediaPartnerId=2850210&utm_term=skyscanner_chatgpt_mcp_app&origin=ICN&destination=NGO&outboundDate=2027-01-26&cabinclass=economy&inboundDate=2027-01-27&locale=ko-KR&currency=JPY&market=KR"
+      },
+      {
+        "quote_id": "{bl}:202611110005*D*ICN*NGO*20270106*quna*LJ|202611110005*D*NGO*ICN*20270107*quna*LJ",
+        "url": "https://skyscanner.net/g/referrals/v1/flights/day-view?mediaPartnerId=2850210&utm_term=skyscanner_chatgpt_mcp_app&origin=ICN&destination=NGO&outboundDate=2027-01-06&cabinclass=economy&inboundDate=2027-01-07&locale=ko-KR&currency=JPY&market=KR"
+      },
+      {
+        "quote_id": "{bl}:202611070912*D*ICN*NGO*20270129*mrlt*7C|202611070912*D*NGO*ICN*20270130*mrlt*7C",
+        "url": "https://skyscanner.net/g/referrals/v1/flights/day-view?mediaPartnerId=2850210&utm_term=skyscanner_chatgpt_mcp_app&origin=ICN&destination=NGO&outboundDate=2027-01-29&cabinclass=economy&inboundDate=2027-01-30&locale=ko-KR&currency=JPY&market=KR"
+      },
+      {
+        "quote_id": "{bl}:202611101447*D*ICN*NGO*20270112*quna*LJ|202611101447*D*NGO*ICN*20270113*quna*LJ",
+        "url": "https://skyscanner.net/g/referrals/v1/flights/day-view?mediaPartnerId=2850210&utm_term=skyscanner_chatgpt_mcp_app&origin=ICN&destination=NGO&outboundDate=2027-01-12&cabinclass=economy&inboundDate=2027-01-13&locale=ko-KR&currency=JPY&market=KR"
+      }
+    ]
+  }
+}
