@@ -1,0 +1,169 @@
+{
+  "schemaVersion": 1,
+  "id": "2026-11-21-CTS-005056",
+  "date": "2026-11-21",
+  "observedAt": "2026-11-21T00:50:56.577Z",
+  "timePrecision": "second",
+  "origin": "ICN",
+  "destination": "CTS",
+  "status": "ok",
+  "provenance": "skyscanner-monthly",
+  "coverage": "returned-candidates",
+  "source": "Skyscanner",
+  "evidence": [
+    "data/evidence/2026-11-21-CTS-005056-KRW.json",
+    "data/evidence/2026-11-21-CTS-005056-JPY.json"
+  ],
+  "quotes": [
+    {
+      "id": "{bl}:202611202341*D*ICN*CTS*20270113*trkr*ZE|202611202341*D*CTS*ICN*20270121*trkr*7C",
+      "departure": "2027-01-13",
+      "return": "2027-01-21",
+      "direct": true,
+      "airlines": [
+        "Eastar Jet",
+        "제주항공"
+      ],
+      "prices": {
+        "KRW": 393805,
+        "JPY": 46785
+      },
+      "baggage": "unknown",
+      "links": {
+        "KRW": "https://skyscanner.net/g/referrals/v1/flights/day-view?mediaPartnerId=2850210&utm_term=skyscanner_chatgpt_mcp_app&origin=ICN&destination=CTS&outboundDate=2027-01-13&cabinclass=economy&inboundDate=2027-01-21&locale=ko-KR&currency=KRW&market=KR",
+        "JPY": "https://skyscanner.net/g/referrals/v1/flights/day-view?mediaPartnerId=2850210&utm_term=skyscanner_chatgpt_mcp_app&origin=ICN&destination=CTS&outboundDate=2027-01-13&cabinclass=economy&inboundDate=2027-01-21&locale=ko-KR&currency=JPY&market=KR"
+      }
+    },
+    {
+      "id": "{bl}:202611202345*D*ICN*CTS*20270112*wpm_*ZE|202611202345*D*CTS*ICN*20270121*wpm_*7C",
+      "departure": "2027-01-12",
+      "return": "2027-01-21",
+      "direct": true,
+      "airlines": [
+        "Eastar Jet",
+        "제주항공"
+      ],
+      "prices": {
+        "KRW": 428407,
+        "JPY": 50896
+      },
+      "baggage": "unknown",
+      "links": {
+        "KRW": "https://skyscanner.net/g/referrals/v1/flights/day-view?mediaPartnerId=2850210&utm_term=skyscanner_chatgpt_mcp_app&origin=ICN&destination=CTS&outboundDate=2027-01-12&cabinclass=economy&inboundDate=2027-01-21&locale=ko-KR&currency=KRW&market=KR",
+        "JPY": "https://skyscanner.net/g/referrals/v1/flights/day-view?mediaPartnerId=2850210&utm_term=skyscanner_chatgpt_mcp_app&origin=ICN&destination=CTS&outboundDate=2027-01-12&cabinclass=economy&inboundDate=2027-01-21&locale=ko-KR&currency=JPY&market=KR"
+      }
+    },
+    {
+      "id": "{bl}:202611210024*I*ICN*CTS*20270118*ctkr*TW|202611210024*I*CTS*ICN*20270121*ctkr*7C",
+      "departure": "2027-01-18",
+      "return": "2027-01-21",
+      "direct": false,
+      "airlines": [
+        "Trinity Airways",
+        "제주항공"
+      ],
+      "prices": {
+        "KRW": 431403,
+        "JPY": 51252
+      },
+      "baggage": "unknown",
+      "links": {
+        "KRW": "https://skyscanner.net/g/referrals/v1/flights/day-view?mediaPartnerId=2850210&utm_term=skyscanner_chatgpt_mcp_app&origin=ICN&destination=CTS&outboundDate=2027-01-18&cabinclass=economy&inboundDate=2027-01-21&locale=ko-KR&currency=KRW&market=KR",
+        "JPY": "https://skyscanner.net/g/referrals/v1/flights/day-view?mediaPartnerId=2850210&utm_term=skyscanner_chatgpt_mcp_app&origin=ICN&destination=CTS&outboundDate=2027-01-18&cabinclass=economy&inboundDate=2027-01-21&locale=ko-KR&currency=JPY&market=KR"
+      }
+    },
+    {
+      "id": "{bl}:202611210009*D*ICN*CTS*20270113*trkr*ZE|202611210009*D*CTS*ICN*20270115*trkr*ZE",
+      "departure": "2027-01-13",
+      "return": "2027-01-15",
+      "direct": true,
+      "airlines": [
+        "Eastar Jet"
+      ],
+      "prices": {
+        "KRW": 431594,
+        "JPY": 51274
+      },
+      "baggage": "unknown",
+      "links": {
+        "KRW": "https://skyscanner.net/g/referrals/v1/flights/day-view?mediaPartnerId=2850210&utm_term=skyscanner_chatgpt_mcp_app&origin=ICN&destination=CTS&outboundDate=2027-01-13&cabinclass=economy&inboundDate=2027-01-15&locale=ko-KR&currency=KRW&market=KR",
+        "JPY": "https://skyscanner.net/g/referrals/v1/flights/day-view?mediaPartnerId=2850210&utm_term=skyscanner_chatgpt_mcp_app&origin=ICN&destination=CTS&outboundDate=2027-01-13&cabinclass=economy&inboundDate=2027-01-15&locale=ko-KR&currency=JPY&market=KR"
+      }
+    },
+    {
+      "id": "{bl}:202611202355*I*ICN*CTS*20270113*mtkr*7C|202611202355*I*CTS*ICN*20270119*mtkr*GK",
+      "departure": "2027-01-13",
+      "return": "2027-01-19",
+      "direct": false,
+      "airlines": [
+        "제주항공",
+        "Jetstar Japan"
+      ],
+      "prices": {
+        "KRW": 440303,
+        "JPY": 52309
+      },
+      "baggage": "unknown",
+      "links": {
+        "KRW": "https://skyscanner.net/g/referrals/v1/flights/day-view?mediaPartnerId=2850210&utm_term=skyscanner_chatgpt_mcp_app&origin=ICN&destination=CTS&outboundDate=2027-01-13&cabinclass=economy&inboundDate=2027-01-19&locale=ko-KR&currency=KRW&market=KR",
+        "JPY": "https://skyscanner.net/g/referrals/v1/flights/day-view?mediaPartnerId=2850210&utm_term=skyscanner_chatgpt_mcp_app&origin=ICN&destination=CTS&outboundDate=2027-01-13&cabinclass=economy&inboundDate=2027-01-19&locale=ko-KR&currency=JPY&market=KR"
+      }
+    },
+    {
+      "id": "{bl}:202611202330*I*ICN*CTS*20270116*skap*ZG|202611202330*I*CTS*ICN*20270117*skap*GK",
+      "departure": "2027-01-16",
+      "return": "2027-01-17",
+      "direct": false,
+      "airlines": [
+        "Zipair",
+        "Jetstar Japan"
+      ],
+      "prices": {
+        "KRW": 442286,
+        "JPY": 52544
+      },
+      "baggage": "unknown",
+      "links": {
+        "KRW": "https://skyscanner.net/g/referrals/v1/flights/day-view?mediaPartnerId=2850210&utm_term=skyscanner_chatgpt_mcp_app&origin=ICN&destination=CTS&outboundDate=2027-01-16&cabinclass=economy&inboundDate=2027-01-17&locale=ko-KR&currency=KRW&market=KR",
+        "JPY": "https://skyscanner.net/g/referrals/v1/flights/day-view?mediaPartnerId=2850210&utm_term=skyscanner_chatgpt_mcp_app&origin=ICN&destination=CTS&outboundDate=2027-01-16&cabinclass=economy&inboundDate=2027-01-17&locale=ko-KR&currency=JPY&market=KR"
+      }
+    },
+    {
+      "id": "{bl}:202611191523*I*ICN*CTS*20270121*gtkr*ZG|202611191523*I*CTS*ICN*20270129*gtkr*MM",
+      "departure": "2027-01-21",
+      "return": "2027-01-29",
+      "direct": false,
+      "airlines": [
+        "Zipair",
+        "피치항공"
+      ],
+      "prices": {
+        "KRW": 442800,
+        "JPY": 52606
+      },
+      "baggage": "unknown",
+      "links": {
+        "KRW": "https://skyscanner.net/g/referrals/v1/flights/day-view?mediaPartnerId=2850210&utm_term=skyscanner_chatgpt_mcp_app&origin=ICN&destination=CTS&outboundDate=2027-01-21&cabinclass=economy&inboundDate=2027-01-29&locale=ko-KR&currency=KRW&market=KR",
+        "JPY": "https://skyscanner.net/g/referrals/v1/flights/day-view?mediaPartnerId=2850210&utm_term=skyscanner_chatgpt_mcp_app&origin=ICN&destination=CTS&outboundDate=2027-01-21&cabinclass=economy&inboundDate=2027-01-29&locale=ko-KR&currency=JPY&market=KR"
+      }
+    },
+    {
+      "id": "{bl}:202611201421*I*ICN*CTS*20270115*ctkr*7C|202611201421*I*CTS*ICN*20270121*ctkr*7C",
+      "departure": "2027-01-15",
+      "return": "2027-01-21",
+      "direct": false,
+      "airlines": [
+        "제주항공"
+      ],
+      "prices": {
+        "KRW": 446853,
+        "JPY": 53087
+      },
+      "baggage": "unknown",
+      "links": {
+        "KRW": "https://skyscanner.net/g/referrals/v1/flights/day-view?mediaPartnerId=2850210&utm_term=skyscanner_chatgpt_mcp_app&origin=ICN&destination=CTS&outboundDate=2027-01-15&cabinclass=economy&inboundDate=2027-01-21&locale=ko-KR&currency=KRW&market=KR",
+        "JPY": "https://skyscanner.net/g/referrals/v1/flights/day-view?mediaPartnerId=2850210&utm_term=skyscanner_chatgpt_mcp_app&origin=ICN&destination=CTS&outboundDate=2027-01-15&cabinclass=economy&inboundDate=2027-01-21&locale=ko-KR&currency=JPY&market=KR"
+      }
+    }
+  ]
+}

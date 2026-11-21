@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "id": "2026-11-21-NGO-005056",
+  "date": "2026-11-21",
+  "observedAt": "2026-11-21T00:50:56.148Z",
+  "timePrecision": "second",
+  "origin": "ICN",
+  "destination": "NGO",
+  "status": "ok",
+  "provenance": "skyscanner-monthly",
+  "coverage": "returned-candidates",
+  "source": "Skyscanner",
+  "evidence": [
+    "data/evidence/2026-11-21-NGO-005056-KRW.json",
+    "data/evidence/2026-11-21-NGO-005056-JPY.json"
+  ],
+  "quotes": [
+    {
+      "id": "{bl}:202611202306*D*ICN*NGO*20270123*bcdk*LJ|202611202306*D*NGO*ICN*20270128*bcdk*7C",
+      "departure": "2027-01-23",
+      "return": "2027-01-28",
+      "direct": true,
+      "airlines": [
+        "진에어",
+        "제주항공"
+      ],
+      "prices": {
+        "KRW": 280396,
+        "JPY": 33312
+      },
+      "baggage": "unknown",
+      "links": {
+        "KRW": "https://skyscanner.net/g/referrals/v1/flights/day-view?mediaPartnerId=2850210&utm_term=skyscanner_chatgpt_mcp_app&origin=ICN&destination=NGO&outboundDate=2027-01-23&cabinclass=economy&inboundDate=2027-01-28&locale=ko-KR&currency=KRW&market=KR",
+        "JPY": "https://skyscanner.net/g/referrals/v1/flights/day-view?mediaPartnerId=2850210&utm_term=skyscanner_chatgpt_mcp_app&origin=ICN&destination=NGO&outboundDate=2027-01-23&cabinclass=economy&inboundDate=2027-01-28&locale=ko-KR&currency=JPY&market=KR"
+      }
+    },
+    {
+      "id": "{bl}:202611201252*D*ICN*NGO*20270123*mrlt*7C|202611201252*D*NGO*ICN*20270124*mrlt*7C",
+      "departure": "2027-01-23",
+      "return": "2027-01-24",
+      "direct": true,
+      "airlines": [
+        "제주항공"
+      ],
+      "prices": {
+        "KRW": 286300,
+        "JPY": 34013
+      },
+      "baggage": "unknown",
+      "links": {
+        "KRW": "https://skyscanner.net/g/referrals/v1/flights/day-view?mediaPartnerId=2850210&utm_term=skyscanner_chatgpt_mcp_app&origin=ICN&destination=NGO&outboundDate=2027-01-23&cabinclass=economy&inboundDate=2027-01-24&locale=ko-KR&currency=KRW&market=KR",
+        "JPY": "https://skyscanner.net/g/referrals/v1/flights/day-view?mediaPartnerId=2850210&utm_term=skyscanner_chatgpt_mcp_app&origin=ICN&destination=NGO&outboundDate=2027-01-23&cabinclass=economy&inboundDate=2027-01-24&locale=ko-KR&currency=JPY&market=KR"
+      }
+    },
+    {
+      "id": "{bl}:202611202306*D*ICN*NGO*20270113*tvis*7C|202611202306*D*NGO*ICN*20270119*tvis*7C",
+      "departure": "2027-01-13",
+      "return": "2027-01-19",
+      "direct": true,
+      "airlines": [
+        "제주항공"
+      ],
+      "prices": {
+        "KRW": 287475,
+        "JPY": 34153
+      },
+      "baggage": "unknown",
+      "links": {
+        "KRW": "https://skyscanner.net/g/referrals/v1/flights/day-view?mediaPartnerId=2850210&utm_term=skyscanner_chatgpt_mcp_app&origin=ICN&destination=NGO&outboundDate=2027-01-13&cabinclass=economy&inboundDate=2027-01-19&locale=ko-KR&currency=KRW&market=KR",
+        "JPY": "https://skyscanner.net/g/referrals/v1/flights/day-view?mediaPartnerId=2850210&utm_term=skyscanner_chatgpt_mcp_app&origin=ICN&destination=NGO&outboundDate=2027-01-13&cabinclass=economy&inboundDate=2027-01-19&locale=ko-KR&currency=JPY&market=KR"
+      }
+    },
+    {
+      "id": "{bl}:202611201630*D*ICN*NGO*20270113*tvis*7C|202611201630*D*NGO*ICN*20270115*tvis*7C",
+      "departure": "2027-01-13",
+      "return": "2027-01-15",
+      "direct": true,
+      "airlines": [
+        "제주항공"
+      ],
+      "prices": {
+        "KRW": 287475,
+        "JPY": 34153
+      },
+      "baggage": "unknown",
+      "links": {
+        "KRW": "https://skyscanner.net/g/referrals/v1/flights/day-view?mediaPartnerId=2850210&utm_term=skyscanner_chatgpt_mcp_app&origin=ICN&destination=NGO&outboundDate=2027-01-13&cabinclass=economy&inboundDate=2027-01-15&locale=ko-KR&currency=KRW&market=KR",
+        "JPY": "https://skyscanner.net/g/referrals/v1/flights/day-view?mediaPartnerId=2850210&utm_term=skyscanner_chatgpt_mcp_app&origin=ICN&destination=NGO&outboundDate=2027-01-13&cabinclass=economy&inboundDate=2027-01-15&locale=ko-KR&currency=JPY&market=KR"
+      }
+    },
+    {
+      "id": "{bl}:202611201650*D*ICN*NGO*20270113*tvis*7C|202611201650*D*NGO*ICN*20270118*tvis*7C",
+      "departure": "2027-01-13",
+      "return": "2027-01-18",
+      "direct": true,
+      "airlines": [
+        "제주항공"
+      ],
+      "prices": {
+        "KRW": 287475,
+        "JPY": 34153
+      },
+      "baggage": "unknown",
+      "links": {
+        "KRW": "https://skyscanner.net/g/referrals/v1/flights/day-view?mediaPartnerId=2850210&utm_term=skyscanner_chatgpt_mcp_app&origin=ICN&destination=NGO&outboundDate=2027-01-13&cabinclass=economy&inboundDate=2027-01-18&locale=ko-KR&currency=KRW&market=KR",
+        "JPY": "https://skyscanner.net/g/referrals/v1/flights/day-view?mediaPartnerId=2850210&utm_term=skyscanner_chatgpt_mcp_app&origin=ICN&destination=NGO&outboundDate=2027-01-13&cabinclass=economy&inboundDate=2027-01-18&locale=ko-KR&currency=JPY&market=KR"
+      }
+    },
+    {
+      "id": "{bl}:202611202152*D*ICN*NGO*20270119*tvis*7C|202611202152*D*NGO*ICN*20270121*tvis*7C",
+      "departure": "2027-01-19",
+      "return": "2027-01-21",
+      "direct": true,
+      "airlines": [
+        "제주항공"
+      ],
+      "prices": {
+        "KRW": 287475,
+        "JPY": 34153
+      },
+      "baggage": "unknown",
+      "links": {
+        "KRW": "https://skyscanner.net/g/referrals/v1/flights/day-view?mediaPartnerId=2850210&utm_term=skyscanner_chatgpt_mcp_app&origin=ICN&destination=NGO&outboundDate=2027-01-19&cabinclass=economy&inboundDate=2027-01-21&locale=ko-KR&currency=KRW&market=KR",
+        "JPY": "https://skyscanner.net/g/referrals/v1/flights/day-view?mediaPartnerId=2850210&utm_term=skyscanner_chatgpt_mcp_app&origin=ICN&destination=NGO&outboundDate=2027-01-19&cabinclass=economy&inboundDate=2027-01-21&locale=ko-KR&currency=JPY&market=KR"
+      }
+    },
+    {
+      "id": "{bl}:202611202034*D*ICN*NGO*20270113*tvis*7C|202611202034*D*NGO*ICN*20270120*tvis*7C",
+      "departure": "2027-01-13",
+      "return": "2027-01-20",
+      "direct": true,
+      "airlines": [
+        "제주항공"
+      ],
+      "prices": {
+        "KRW": 287475,
+        "JPY": 34153
+      },
+      "baggage": "unknown",
+      "links": {
+        "KRW": "https://skyscanner.net/g/referrals/v1/flights/day-view?mediaPartnerId=2850210&utm_term=skyscanner_chatgpt_mcp_app&origin=ICN&destination=NGO&outboundDate=2027-01-13&cabinclass=economy&inboundDate=2027-01-20&locale=ko-KR&currency=KRW&market=KR",
+        "JPY": "https://skyscanner.net/g/referrals/v1/flights/day-view?mediaPartnerId=2850210&utm_term=skyscanner_chatgpt_mcp_app&origin=ICN&destination=NGO&outboundDate=2027-01-13&cabinclass=economy&inboundDate=2027-01-20&locale=ko-KR&currency=JPY&market=KR"
+      }
+    },
+    {
+      "id": "{bl}:202611201630*D*ICN*NGO*20270114*tvis*7C|202611201630*D*NGO*ICN*20270115*tvis*7C",
+      "departure": "2027-01-14",
+      "return": "2027-01-15",
+      "direct": true,
+      "airlines": [
+        "제주항공"
+      ],
+      "prices": {
+        "KRW": 289795,
+        "JPY": 34428
+      },
+      "baggage": "unknown",
+      "links": {
+        "KRW": "https://skyscanner.net/g/referrals/v1/flights/day-view?mediaPartnerId=2850210&utm_term=skyscanner_chatgpt_mcp_app&origin=ICN&destination=NGO&outboundDate=2027-01-14&cabinclass=economy&inboundDate=2027-01-15&locale=ko-KR&currency=KRW&market=KR",
+        "JPY": "https://skyscanner.net/g/referrals/v1/flights/day-view?mediaPartnerId=2850210&utm_term=skyscanner_chatgpt_mcp_app&origin=ICN&destination=NGO&outboundDate=2027-01-14&cabinclass=economy&inboundDate=2027-01-15&locale=ko-KR&currency=JPY&market=KR"
+      }
+    }
+  ]
+}
