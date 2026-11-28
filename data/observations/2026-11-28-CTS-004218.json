@@ -1,0 +1,163 @@
+{
+  "schemaVersion": 1,
+  "id": "2026-11-28-CTS-004218",
+  "date": "2026-11-28",
+  "observedAt": "2026-11-28T00:42:18.483Z",
+  "timePrecision": "second",
+  "origin": "ICN",
+  "destination": "CTS",
+  "status": "ok",
+  "provenance": "skyscanner-monthly",
+  "coverage": "returned-candidates",
+  "source": "Skyscanner",
+  "evidence": [
+    "data/evidence/2026-11-28-CTS-004218-KRW.json",
+    "data/evidence/2026-11-28-CTS-004218-JPY.json"
+  ],
+  "quotes": [
+    {
+      "id": "{bl}:202611271023*D*ICN*CTS*20270113*mdtr*WE|202611271023*D*CTS*ICN*20270121*mdtr*WE",
+      "departure": "2027-01-13",
+      "return": "2027-01-21",
+      "direct": true,
+      "airlines": [
+        "Parata Air"
+      ],
+      "prices": {
+        "KRW": 302162,
+        "JPY": 36128
+      },
+      "baggage": "unknown",
+      "links": {
+        "KRW": "https://skyscanner.net/g/referrals/v1/flights/day-view?mediaPartnerId=2850210&utm_term=skyscanner_chatgpt_mcp_app&origin=ICN&destination=CTS&outboundDate=2027-01-13&cabinclass=economy&inboundDate=2027-01-21&locale=ko-KR&currency=KRW&market=KR",
+        "JPY": "https://skyscanner.net/g/referrals/v1/flights/day-view?mediaPartnerId=2850210&utm_term=skyscanner_chatgpt_mcp_app&origin=ICN&destination=CTS&outboundDate=2027-01-13&cabinclass=economy&inboundDate=2027-01-21&locale=ko-KR&currency=JPY&market=KR"
+      }
+    },
+    {
+      "id": "{bl}:202611271131*D*ICN*CTS*20270115*agod*WE|202611271131*D*CTS*ICN*20270125*agod*WE",
+      "departure": "2027-01-15",
+      "return": "2027-01-25",
+      "direct": true,
+      "airlines": [
+        "Parata Air"
+      ],
+      "prices": {
+        "KRW": 314985,
+        "JPY": 37662
+      },
+      "baggage": "unknown",
+      "links": {
+        "KRW": "https://skyscanner.net/g/referrals/v1/flights/day-view?mediaPartnerId=2850210&utm_term=skyscanner_chatgpt_mcp_app&origin=ICN&destination=CTS&outboundDate=2027-01-15&cabinclass=economy&inboundDate=2027-01-25&locale=ko-KR&currency=KRW&market=KR",
+        "JPY": "https://skyscanner.net/g/referrals/v1/flights/day-view?mediaPartnerId=2850210&utm_term=skyscanner_chatgpt_mcp_app&origin=ICN&destination=CTS&outboundDate=2027-01-15&cabinclass=economy&inboundDate=2027-01-25&locale=ko-KR&currency=JPY&market=KR"
+      }
+    },
+    {
+      "id": "{bl}:202611271032*D*ICN*CTS*20270104*oltr*WE|202611271032*D*CTS*ICN*20270118*oltr*WE",
+      "departure": "2027-01-04",
+      "return": "2027-01-18",
+      "direct": true,
+      "airlines": [
+        "Parata Air"
+      ],
+      "prices": {
+        "KRW": 348146,
+        "JPY": 41626
+      },
+      "baggage": "unknown",
+      "links": {
+        "KRW": "https://skyscanner.net/g/referrals/v1/flights/day-view?mediaPartnerId=2850210&utm_term=skyscanner_chatgpt_mcp_app&origin=ICN&destination=CTS&outboundDate=2027-01-04&cabinclass=economy&inboundDate=2027-01-18&locale=ko-KR&currency=KRW&market=KR",
+        "JPY": "https://skyscanner.net/g/referrals/v1/flights/day-view?mediaPartnerId=2850210&utm_term=skyscanner_chatgpt_mcp_app&origin=ICN&destination=CTS&outboundDate=2027-01-04&cabinclass=economy&inboundDate=2027-01-18&locale=ko-KR&currency=JPY&market=KR"
+      }
+    },
+    {
+      "id": "{bl}:202611271224*D*ICN*CTS*20270116*agod*WE|202611271224*D*CTS*ICN*20270121*agod*WE",
+      "departure": "2027-01-16",
+      "return": "2027-01-21",
+      "direct": true,
+      "airlines": [
+        "Parata Air"
+      ],
+      "prices": {
+        "KRW": 375853,
+        "JPY": 44939
+      },
+      "baggage": "unknown",
+      "links": {
+        "KRW": "https://skyscanner.net/g/referrals/v1/flights/day-view?mediaPartnerId=2850210&utm_term=skyscanner_chatgpt_mcp_app&origin=ICN&destination=CTS&outboundDate=2027-01-16&cabinclass=economy&inboundDate=2027-01-21&locale=ko-KR&currency=KRW&market=KR",
+        "JPY": "https://skyscanner.net/g/referrals/v1/flights/day-view?mediaPartnerId=2850210&utm_term=skyscanner_chatgpt_mcp_app&origin=ICN&destination=CTS&outboundDate=2027-01-16&cabinclass=economy&inboundDate=2027-01-21&locale=ko-KR&currency=JPY&market=KR"
+      }
+    },
+    {
+      "id": "{bl}:202611271120*D*ICN*CTS*20270102*oltr*WE|202611271120*D*CTS*ICN*20270104*oltr*WE",
+      "departure": "2027-01-02",
+      "return": "2027-01-04",
+      "direct": true,
+      "airlines": [
+        "Parata Air"
+      ],
+      "prices": {
+        "KRW": 377886,
+        "JPY": 45182
+      },
+      "baggage": "unknown",
+      "links": {
+        "KRW": "https://skyscanner.net/g/referrals/v1/flights/day-view?mediaPartnerId=2850210&utm_term=skyscanner_chatgpt_mcp_app&origin=ICN&destination=CTS&outboundDate=2027-01-02&cabinclass=economy&inboundDate=2027-01-04&locale=ko-KR&currency=KRW&market=KR",
+        "JPY": "https://skyscanner.net/g/referrals/v1/flights/day-view?mediaPartnerId=2850210&utm_term=skyscanner_chatgpt_mcp_app&origin=ICN&destination=CTS&outboundDate=2027-01-02&cabinclass=economy&inboundDate=2027-01-04&locale=ko-KR&currency=JPY&market=KR"
+      }
+    },
+    {
+      "id": "{bl}:202611271137*D*ICN*CTS*20270106*oltr*WE|202611271137*D*CTS*ICN*20270108*oltr*WE",
+      "departure": "2027-01-06",
+      "return": "2027-01-08",
+      "direct": true,
+      "airlines": [
+        "Parata Air"
+      ],
+      "prices": {
+        "KRW": 377886,
+        "JPY": 45182
+      },
+      "baggage": "unknown",
+      "links": {
+        "KRW": "https://skyscanner.net/g/referrals/v1/flights/day-view?mediaPartnerId=2850210&utm_term=skyscanner_chatgpt_mcp_app&origin=ICN&destination=CTS&outboundDate=2027-01-06&cabinclass=economy&inboundDate=2027-01-08&locale=ko-KR&currency=KRW&market=KR",
+        "JPY": "https://skyscanner.net/g/referrals/v1/flights/day-view?mediaPartnerId=2850210&utm_term=skyscanner_chatgpt_mcp_app&origin=ICN&destination=CTS&outboundDate=2027-01-06&cabinclass=economy&inboundDate=2027-01-08&locale=ko-KR&currency=JPY&market=KR"
+      }
+    },
+    {
+      "id": "{bl}:202611271225*D*ICN*CTS*20270119*agod*WE|202611271225*D*CTS*ICN*20270128*agod*WE",
+      "departure": "2027-01-19",
+      "return": "2027-01-28",
+      "direct": true,
+      "airlines": [
+        "Parata Air"
+      ],
+      "prices": {
+        "KRW": 390796,
+        "JPY": 46726
+      },
+      "baggage": "unknown",
+      "links": {
+        "KRW": "https://skyscanner.net/g/referrals/v1/flights/day-view?mediaPartnerId=2850210&utm_term=skyscanner_chatgpt_mcp_app&origin=ICN&destination=CTS&outboundDate=2027-01-19&cabinclass=economy&inboundDate=2027-01-28&locale=ko-KR&currency=KRW&market=KR",
+        "JPY": "https://skyscanner.net/g/referrals/v1/flights/day-view?mediaPartnerId=2850210&utm_term=skyscanner_chatgpt_mcp_app&origin=ICN&destination=CTS&outboundDate=2027-01-19&cabinclass=economy&inboundDate=2027-01-28&locale=ko-KR&currency=JPY&market=KR"
+      }
+    },
+    {
+      "id": "{bl}:202611271118*D*ICN*CTS*20270119*mdtr*WE|202611271118*D*CTS*ICN*20270127*mdtr*WE",
+      "departure": "2027-01-19",
+      "return": "2027-01-27",
+      "direct": true,
+      "airlines": [
+        "Parata Air"
+      ],
+      "prices": {
+        "KRW": 391352,
+        "JPY": 46792
+      },
+      "baggage": "unknown",
+      "links": {
+        "KRW": "https://skyscanner.net/g/referrals/v1/flights/day-view?mediaPartnerId=2850210&utm_term=skyscanner_chatgpt_mcp_app&origin=ICN&destination=CTS&outboundDate=2027-01-19&cabinclass=economy&inboundDate=2027-01-27&locale=ko-KR&currency=KRW&market=KR",
+        "JPY": "https://skyscanner.net/g/referrals/v1/flights/day-view?mediaPartnerId=2850210&utm_term=skyscanner_chatgpt_mcp_app&origin=ICN&destination=CTS&outboundDate=2027-01-19&cabinclass=economy&inboundDate=2027-01-27&locale=ko-KR&currency=JPY&market=KR"
+      }
+    }
+  ]
+}
